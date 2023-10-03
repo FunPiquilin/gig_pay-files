@@ -1,6 +1,7 @@
-2023-10-2,walking,24
-2023-10-9,walking ,24
-2023-10-3,walking,16
+date,job,hrs_worked
+2023-10-02,walking,24
+2023-10-09,walking ,24
+2023-10-03,walking,16
 2023-10-12,running,8
 2023-10-21,sprinting,1
 2023-10-13,running,24
